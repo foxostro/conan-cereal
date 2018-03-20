@@ -1,7 +1,7 @@
 from conans import ConanFile
 
 
-class BitseryConan(ConanFile):
+class CerealConan(ConanFile):
     name = "cereal"
     version = "1.2.2"
     license = "BSD"
